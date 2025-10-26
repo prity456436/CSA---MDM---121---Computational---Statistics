@@ -18,6 +18,8 @@ Performs correlation analysis and simple linear regression (e.g., study hours vs
 
 Q5: Hypothesis Testing
 Conducts a two-sample t-test to compare class averages and determine if the difference is statistically significant.
+
+
 🚀 How to Run Clone the repository:
 
 git clone https://github.com/anukumari8402-star/CSA-MDM-121-Computational-Statistics
