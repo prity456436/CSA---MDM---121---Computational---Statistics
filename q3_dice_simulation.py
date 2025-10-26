@@ -1,4 +1,3 @@
-# Q3: Alternate version
 import numpy as np
 import matplotlib.pyplot as plt
 
