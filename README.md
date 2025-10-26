@@ -1,39 +1,34 @@
-# CSA---MDM---121---Computational---Statistics
-Section -B: Programming Tasks (MID-ll Assignments)
+# CSA-MDM-121: Computational Statistics  
+## Section–B: Programming Tasks (MID-II Assignments)
 
+This repository provides Python implementations for the **Section–B Programming Tasks** of the course CSA-MDM-121.  
 
-📂 Contents
+The programs are written with clear logic, comments, and outputs. Each task is kept in a separate file so that they can be run and tested independently.
 
-Q1: Mean, Median, Mode, Weighted Mean
-Calculates basic statistical measures (mean, median, mode) using Python’s statistics module and includes a custom function for weighted mean.
+---
 
-Q2: Range, Variance, Skewness, Kurtosis
-Computes range, variance, skewness, and kurtosis to analyze data distribution and spread.
+## 📂 Programs Included
+- **Q1:** Calculate Mean, Median, Mode, and Weighted Mean for a dataset.  
+- **Q2:** Compute Range, Variance, and Standard Deviation using step‑by‑step formulas.  
+- **Q3:** Simulate rolling two dice 10,000 times, estimate the probability of getting a sum of 7, and compare with the theoretical probability.  
+- **Q4:** Find the correlation coefficient and fit a simple linear regression line (y = a + bx) for a sample dataset.  
+- **Q5:** Perform a hypothesis test to check if the average marks of two classes are significantly different, with proper hypotheses and interpretation.  
 
-Q3: Central Limit Theorem Simulation
-Simulates repeated sampling to demonstrate the Central Limit Theorem and visualize sample means approaching normal distribution.
+---
 
-Q4: Correlation & Regression
-Performs correlation analysis and simple linear regression (e.g., study hours vs exam scores) to show relationships between variables.
-
-Q5: Hypothesis Testing
-Conducts a two-sample t-test to compare class averages and determine if the difference is statistically significant.
-
-
-🚀 How to Run Clone the repository:
-
-git clone https://github.com/prity456436/CSA-MDM-121-Computational-Statistics
-
-Navigate into the folder:
-
-cd CSA-MDM-121-SectionB-Assignments
-
-Run any program (example for Q1):
-
-python t01_mean_median_mode.py
-
-✅ Notes
-
-Language: Python 3
-Libraries used: numpy, scipy, statistics, random
-Each file is self-contained and can be executed independently.
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/prity456436/CSA---MDM---121---Computational---Statistics.git
+2. Move into the project folder:
+   ```bash
+   cd CSA---MDM---121---Computational---Statistics
+3. Run any program (example for Q1):
+   ```bash
+   Run any program (example for Q1):
+---
+  ## ✅ Notes
+- Programming Language: **Python 3**  
+- Dependencies: `numpy`, `scipy`, `statistics`, `random`, `matplotlib`  
+- All programs are standalone and can be executed individually without dependencies on other files.
+---
