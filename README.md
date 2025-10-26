@@ -21,11 +21,10 @@ The programs are written with clear logic, comments, and outputs. Each task is k
    ```bash
    git clone https://github.com/prity456436/CSA---MDM---121---Computational---Statistics.git
 2. Move into the project folder:
-   ```bash
    cd CSA---MDM---121---Computational---Statistics
 3. Run any program (example for Q1):
-   ```bash
-   Run any program (example for Q1):
+   python q1_mean_median_mode_weighted.py
+
 ---
   ## ✅ Notes
 - Programming Language: **Python 3**  
