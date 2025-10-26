@@ -22,7 +22,7 @@ Conducts a two-sample t-test to compare class averages and determine if the diff
 
 🚀 How to Run Clone the repository:
 
-git clone https://github.com/anukumari8402-star/CSA-MDM-121-Computational-Statistics
+git clone https://github.com/prity456436/CSA-MDM-121-Computational-Statistics
 
 Navigate into the folder:
 
